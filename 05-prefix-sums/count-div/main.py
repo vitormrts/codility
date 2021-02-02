@@ -8,7 +8,6 @@ def solution(A, B, K):
     y = B//K
 
     return y - x + z
-
     
 
 a = solution(0, 0, 5)
